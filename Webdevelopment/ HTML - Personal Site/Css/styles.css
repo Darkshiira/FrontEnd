@@ -1,0 +1,40 @@
+body {
+  background-color: #FFF1F1;
+  font-family: Garamond, serif;
+
+}
+
+
+hr {
+  border-top: 10px dotted #630000;
+  border-bottom: none;
+  width: 10%
+}
+
+h1 {
+  color: #630000;
+  font-family:"Lucida Handwriting", cursive;
+}
+
+h3 {
+  color: #630000;
+  font-family:"Lucida Sans", cursive;
+}
+h4 {
+  color: black
+}
+p {
+  font-size: 150%;
+}
+td {
+  border: 0
+}
+th {
+  border-style:none;
+  color: #630000;
+  font-family:"Lucida Sans", cursive;
+  font-size: 150%
+}
+ul{
+  font-size: 125%;
+}
